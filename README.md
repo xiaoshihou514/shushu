@@ -1,7 +1,7 @@
 # 叔叔我啊，最...
 
 ```bash
-npm install -g shushu
+npm install -g @xiaoshihou514/shushu
 ```
 
 ```bash
